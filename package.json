@@ -1,0 +1,30 @@
+{
+  "name": "job-schedule-nodejs-cron",
+  "version": "1.0.0",
+  "description": "Manejo de tareas programadas en NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leojim06/job-schedule-nodejs-cron.git"
+  },
+  "keywords": [
+    "nodejs",
+    "cron",
+    "job-schedule"
+  ],
+  "author": "leojim06",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leojim06/job-schedule-nodejs-cron/issues"
+  },
+  "homepage": "https://github.com/leojim06/job-schedule-nodejs-cron#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "node-cron": "^3.0.0",
+    "ora": "^5.4.1",
+    "puppeteer": "^10.1.0"
+  }
+}
